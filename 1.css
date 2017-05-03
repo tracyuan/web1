@@ -4,3 +4,9 @@
 	color: #65a7d0;
 	font-weight: bold;
 }
+ul{
+	list-style-type:none;
+}
+.point{
+		list-style: circle;
+		}
