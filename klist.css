@@ -1,0 +1,157 @@
+
+		body{background-color: #ffffe0;}
+		#header{
+			height: 165px;
+			background-image: url('bg.gif');
+		}
+		#banner{
+			width: 100px;
+
+			position: relative;
+			left: 50px;
+			top: 38px;	
+		}
+		#nav{
+			background-image: url(nav.jpg);
+			height: 40px;
+		}
+		#dh{
+			float: left;
+			position:relative;
+			left: 150px;
+			top: 7px;
+		}
+		#fen{
+			background-color: #ffffff;
+			height: 10px;
+			width:2px;
+			position: relative;
+			left: 3px;
+		}
+		#so{
+			height: 15px;
+			width: 350px;
+			color: white;
+			position: relative;
+			right: 110px;
+			top: 9px;
+			
+			float: right;
+		}
+		#sousuo{
+			position: relative;
+			top: 4px;
+			right: 149px;
+			width: 40px;
+			height: 18px;
+			border: 1px solid #f8f5ee;
+			background-color: black;
+			float: right;
+			text-align: center;
+		}
+	
+		#bottom{
+			height: 200px;
+			width: 1500px;
+			background-image: url('foot.gif');
+			background-repeat: no-repeat;
+			position: relative;
+			bottom: 0px;
+			left: 0px;
+		}
+		#bot{
+			background-color: #522a06;
+			height: 10px;
+			width:2px;
+		}
+		#bot1wz{
+			position: relative;
+			left: 353px;
+			height: 10px;
+
+		}
+		#bot2wz0{
+			position: relative;
+			left: 20px;
+		}
+		#bot2wz1{
+			position: relative;
+			left: 45px;
+		}	
+		#bot3st{
+			position: relative;
+			left: 433px;
+		}
+		body{
+			font-family: '宋体';	
+		}
+		a:link{text-decoration: none;
+		color: #522a06;}
+		a:hover{
+			text-decoration: underline;
+
+		}
+		#mmdd{
+			width: 1200px;
+		}
+		#tdst1{
+			position: relative;
+			left: 320px;
+		}
+		#tdst2{
+			position: relative;
+			left: 320px;
+
+		}
+		#tp1{
+			position: relative;
+			left: 220px;
+		}
+		#left_mid{
+			position: relative;
+			left: 220px;
+			width: 550px;
+			float: left;
+		}
+		#lb{
+			position: relative;
+			left: 220px;
+			width: 550px;
+		}
+		#mid_right{
+			width: 350px;
+			height: 700px;
+			float: right;
+			position: relative;
+			top: -750px;
+			left: -0px;
+		}
+		#mid_right_top{
+			width: 200px;
+			height: 200px;
+			background-image: url(bg.png);
+
+
+		}#tpst4{
+			position:relative;
+			left: -12px;
+			top: 7px;
+		}
+		#tpst4r{
+
+			height: 70px;
+			width: 230px;
+		}
+		#mid_right_bot{
+			background-image: url(show_bg.png);
+			background-repeat: no-repeat;
+			position: relative;
+			left: -30px;
+			height: 350px;
+
+		}
+		#lt2{
+			position: relative;
+			left: 35px;
+
+		}
